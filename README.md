@@ -52,6 +52,34 @@ logical operators are
 * OR  ||
 
 
+## Algortihms
+To start with the topic we need to define what is an algorithm.
+
+I'm sumary is a group of rules, instructions or procedures to solve or calculate a mathematical problem,
+this definition was found in [This link](https://dictionary.cambridge.org/es-LA/dictionary/english/algorithm), [Another One](https://www.merriam-webster.com/dictionary/algorithm)
+
+## Characteristics of an algorithm
+Not all the procedures are an algortihm, in order to be considered one it must hve all the characteristics found in [This link](
+https://www.tutorialspoint.com/data_structures_algorithms/algorithms_basics.htm)
+* Unambiguous − Algorithm should be clear and unambiguous. Each of its steps (or phases), and their inputs/outputs should be clear and must lead to only one meaning.
+
+* Input − An algorithm should have 0 or more well-defined inputs.
+
+* Output − An algorithm should have 1 or more well-defined outputs, and should match the desired output.
+
+* Finiteness − Algorithms must terminate after a finite number of steps.
+
+* Feasibility − Should be feasible with the available resources.
+
+* Independent − An algorithm should have step-by-step directions, which should be independent of any programming code.
+
+
+
+
+
+
+
+
 
 
 
