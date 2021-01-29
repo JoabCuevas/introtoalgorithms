@@ -6,11 +6,7 @@ Practice
  
 
 ## encabezado 2
-texto normal
-
- 
-
-a piece of code
+texto normal a piece of code
 ```javascript
 function test() 
 { 
