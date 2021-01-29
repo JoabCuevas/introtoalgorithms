@@ -24,11 +24,8 @@ print(another code block)
 
  
 
-### encabezado 3
+### encabezado 3 como generar listas
 
- 
-
-como generar listas
 * elemento
 * otro elemento
 * another
