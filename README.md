@@ -52,7 +52,7 @@ logical operators are
 * OR  ||
 
 
-# Algortihms
+# Algorithms
 To start with the topic we need to define what is an algorithm.
 
 I'm sumary is a group of rules, instructions or procedures to solve or calculate a mathematical problem,
