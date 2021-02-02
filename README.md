@@ -200,3 +200,7 @@ Arithmetic expressions perform operations that involve addition, subtraction, mu
 It is that expression by which the result of the evaluation that is being done at the moment is True (T) or False (F).
 
 ![Example](http://www.carlospes.com/curso_de_algoritmos/imagenes/fig_07_03_operadores_relacionales.gif)
+
+
+
+# 
