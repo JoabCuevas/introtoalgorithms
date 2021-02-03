@@ -1,22 +1,22 @@
 START/INIT
 
-int n, i
-print "Input a number"
-read n
-print "Input second number"
-read i
+int n, i ##State that n and i are integers
+print "Input a number" ##Tells the user to input a number"
+read n ## Reads the n integer
+print "Input second number" ##Tells the user to input a second number
+read i ## Read the i integer
 
-n=i+n
+n=i+n  ##Sum of the n and i integers
 
-if (n%2==0)
-	if (n%n==1){
-		print "The sum is a prime number"
+if (n%2==0) ##If the module of n integer by 2 equals 0...
+	if (n%n==1){## If the module of n integer by n integer equals 1...
+		print "The sum is a prime number"## ... tells the user that the sum is a prime number
 	 }
-else if (n!=0){
-	print "The sum is a multiple of 2"
+else if (n!=0){ ## Else if the number is different from 0
+	print "The sum is a multiple of 2" ## Tells the user that the n integer is multiple of 2
 	}
-else
-	print"The sum is neither a multiple of 2 or a prime number"
+else ## Else...
+	print "The sum is neither a multiple of 2 or a prime number" ## Tells that the n integer is not a multiple of 2 or prime number
 }
 
 END/FINISH
