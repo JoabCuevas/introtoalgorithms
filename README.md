@@ -203,4 +203,6 @@ It is that expression by which the result of the evaluation that is being done a
 
 
 
-# 
+#### Flowcharts investigated (source)
+[Calculator Flowchart](http://www.myhomeworkguides.com/python-program-will-act-calculator-flowchart/)
+[Negative/Positive Number](https://www.csharp-console-examples.com/general/flowchart-examples-for-programming/)
