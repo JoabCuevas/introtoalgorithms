@@ -1,0 +1,17 @@
+A company pays its employees based on a hourly rate. Write and algorithm to calculate the weekly salary of N workers and the global amount the company paid.
+
+start
+	
+	read N
+
+	for(i=1, i=N, i++) {
+		read hours_worked, hourly_rate
+		weekly_salary = hours_worked * hourly_rate
+		print "The salary is ", weekly_salary
+		payroll = payrol + weekly_salary
+	}
+
+	print "Payroll is ", payroll
+
+end
+
