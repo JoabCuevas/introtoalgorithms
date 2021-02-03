@@ -1,0 +1,16 @@
+Start
+
+Declaration of variables
+
+A = 0
+B = 0
+
+Insert A, B
+
+If (A>B){
+	Then (print "A is bigger than B)}
+{
+Else (print "B is bigger than A")}
+
+Finished
+
