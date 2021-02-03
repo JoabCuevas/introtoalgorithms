@@ -1,23 +1,15 @@
 # introtoalgorithms
 Practice
 
-# Welcome to StackEdit!
+# UPY-Intro-to-Algorithms
+## Intro to Algorithms - HW
+### Data Engineering 1-B
 
- 
+**Juan Carlos Ávila Sánchez**
 
-## encabezado 2
-texto normal a piece of code
-```javascript
-function test() 
-{ 
-    console.log("look ma’, no spaces");
-}
-```
-normal text
-```python
-print(another code block)
-```
+**Joab Abisai Cuevas Méndez**
 
+**Marcos Alberto CouoH Batún**
  
 
 ### encabezado 3 como generar listas
