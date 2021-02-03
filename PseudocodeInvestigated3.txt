@@ -1,6 +1,6 @@
 Start
 
-Declaration of varibales
+## Declaration of varibales
 
 Int Min=0 
 Int Max=0
