@@ -1,0 +1,22 @@
+START/INIT
+
+int n, i
+print "Input a number"
+read n
+print "Input second number"
+read i
+
+n=i+n
+
+if (n%2==0)
+	if (n%n==1){
+		print "The sum is a prime number"
+	 }
+else if (n!=0){
+	print "The sum is a multiple of 2"
+	}
+else
+	print"The sum is neither a multiple of 2 or a prime number"
+}
+
+END/FINISH
